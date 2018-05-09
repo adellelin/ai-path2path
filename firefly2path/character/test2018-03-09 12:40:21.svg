@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="400" height="400" viewBox="-100.0 -100.0 200 200">
+<defs>
+</defs>
+<path fill-opacity="0.5" d="M-3,-13 L-1,-14 L1,-14 L2,-15 L4,-15 L6,-16 L7,-16 L9,-16 L10,-16 L11,-16 L13,-16 L14,-15 L15,-15 L17,-15 L17,-14 L18,-13 L18,-13 L19,-12 L19,-12 L18,-11 L17,-11 L16,-10 L15,-9 L13,-8 L12,-8 L10,-7 L8,-6 L7,-6 L5,-5 L3,-5 L2,-4 L0,-4 L-1,-3 L-2,-3 L-3,-3 L-4,-3 L-4,-3 L-3,-3 L-2,-3 L-2,-3 L-1,-4 L0,-5 L1,-5 L1,-6 L2,-7 L2,-7 L2,-7" stroke="red" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M-3,-13 L6,-16 L17,-15 L19,-12 L15,-9 L-1,-3 L-4,-3 L2,-7" stroke="black" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M4,18 L4,20 L4,20 L4,21 L4,21 L4,22 L4,22 L4,23 L3,23 L3,24 L3,24 L3,25 L3,25 L2,25 L2,25 L2,25 L2,25 L3,26 L4,25 L5,25 L6,25 L7,24 L7,21 L8,1 L10,1 L12,1 L13,2 L15,3 L16,4 L17,5 L17,6 L17,7 L17,9 L16,10 L15,12 L14,13 L12,15 L10,16 L7,17 L4,17 L1,18 L-1,18 L-4,18 L-6,17 L-8,17 L-9,17 L-10,16 L-11,17 L-10,17 L-10,17 L-9,16 L-8,16 L-8,16 L-5,12 L-4,9" stroke="red" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M4,18 L2,25 L7,24 L8,1 L12,1 L17,5 L15,12 L7,17 L-11,17 L-8,16 L-4,9" stroke="black" fill="none" stroke-width="0.5" />
+</svg>

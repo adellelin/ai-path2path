@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="400" height="400" viewBox="-100.0 -100.0 200 200">
+<defs>
+</defs>
+<path d="M-9,10 L-7,11 L-4,12 L-3,12 L-3,13 L-2,14 L-2,15 L-1,15 L-1,16 L-1,15 L-2,15" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M-44,7 L-41,7 L-39,7 L-39,7" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M-42,5" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M-1,7 L-1,7 L-1,8 L0,8" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M-37,6 L-37,6 L-37,6 L-37,5 L-37,5 L-37,5 L-37,6 L-37,6 L-37,5 L-37,5 L-37,6 L-38,6" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M-27,10 L-22,11 L-18,12 L-14,13 L-11,14 L-9,15 L-7,15 L-5,15" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M5,17 L6,17 L6,17 L6,17 L6,16 L4,14 L1,12 L-1,10 L-4,9 L-7,8 L-11,8 L-13,7 L-15,6 L-17,6 L-17,6 L-18,5 L-20,5 L-23,5 L-27,6 L-30,6 L-33,7 L-36,7 L-38,6 L-39,6 L-41,6 L-43,5 L-46,3 L-48,1 L-51,-1 L-51,-5 L-51,-9 L-49,-9 L-29,9 L-29,9 L-31,8 L-34,7 L-39,6" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M-41,-5 L52,14 L47,11 L48,10 L48,8 L49,7 L49,6 L50,5 L50,5 L51,4 L51,4 L52,5 L53,5 L54,6 L54,7 L55,7 L55,7 L55,8 L55,8 L56,7 L55,7 L55,7 L55,7 L55,7 L56,6 L56,6 L56,6 L56,6 L56,6 L57,7 L57,7 L57,7 L57,7 L57,7 L57,7 L57,7 L55,6 L55,7 L54,7 L54,7 L55,8 L56,9 L56,11 L57,11 L57,13 L58,14 L59,15 L61,16 L62,17" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+<path d="M58,12 L56,12 L52,12 L49,12 L46,12 L45,13 L46,15 L46,17 L46,20 L45,21 L46,23 L48,24 L49,24 L51,24 L54,25" stroke-width="0.5" stroke="black" fill="none" fill-opacity="0.5" />
+</svg>

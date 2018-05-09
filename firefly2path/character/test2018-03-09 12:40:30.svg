@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="400" height="400" viewBox="-100.0 -100.0 200 200">
+<defs>
+</defs>
+<path fill-opacity="0.5" d="M2,2 L2,2 L2,2 L2,2 L3,2 L3,2 L3,1 L3,1 L3,1 L4,1 L4,1 L4,1 L4,1 L4,1" stroke="red" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M2,2 L4,1" stroke="black" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0 L4,0" stroke="red" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M4,0 L4,0" stroke="black" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M67,-11 L68,-13 L58,-13 L51,-13 L47,-14 L45,-14 L44,-12 L44,-10 L45,-9 L45,-9" stroke="red" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M67,-11 L68,-13 L45,-14 L45,-9" stroke="black" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M25,4 L26,4 L25,3 L25,3 L23,2 L22,2 L20,1 L17,0 L14,-1 L11,-2 L8,-3 L5,-5 L1,-6 L-2,-7 L-6,-8 L-9,-9 L-12,-10 L-15,-11 L-18,-11 L-20,-11 L-22,-10 L-23,-10" stroke="red" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M25,4 L-15,-11 L-23,-10" stroke="black" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M31,10 L35,10 L38,9 L41,9 L42,8 L43,8 L43,8 L42,8 L41,8 L39,8 L34,7 L31,7 L27,7 L23,6 L18,6 L14,5 L9,4 L4,3 L-2,2 L-7,1 L-12,-1 L-16,-2 L-20,-3 L-23,-4" stroke="red" fill="none" stroke-width="0.5" />
+<path fill-opacity="0.5" d="M31,10 L43,8 L18,6 L-23,-4" stroke="black" fill="none" stroke-width="0.5" />
+</svg>

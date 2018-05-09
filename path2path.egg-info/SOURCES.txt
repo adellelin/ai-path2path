@@ -1,0 +1,17 @@
+README.md
+magenta/__init__.py
+magenta/models/__init__.py
+magenta/models/sketch_rnn/__init__.py
+magenta/models/sketch_rnn/model.py
+magenta/models/sketch_rnn/rnn.py
+magenta/models/sketch_rnn/sketch_rnn_train.py
+magenta/models/sketch_rnn/utils.py
+path2path/__init__.py
+path2path/crserver.py
+path2path/package.py
+path2path.egg-info/PKG-INFO
+path2path.egg-info/SOURCES.txt
+path2path.egg-info/dependency_links.txt
+path2path.egg-info/entry_points.txt
+path2path.egg-info/requires.txt
+path2path.egg-info/top_level.txt

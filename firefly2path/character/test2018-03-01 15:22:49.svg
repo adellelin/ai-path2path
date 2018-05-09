@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="400" height="400" viewBox="-100.0 -100.0 200 200">
+<defs>
+</defs>
+<path stroke-width="0.5" fill-opacity="0.5" stroke="red" d="M-8,-19 L-8,-19 L-8,-19 L-8,-19 L-8,-19 L-8,-19 L-9,-19 L-9,-19 L-9,-19" fill="none" />
+<path stroke-width="0.75" fill-opacity="0.5" stroke="black" d="M-8,-19 L-9,-19" fill="none" />
+<path stroke-width="0.5" fill-opacity="0.5" stroke="red" d="M-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19 L-10,-19" fill="none" />
+<path stroke-width="0.75" fill-opacity="0.5" stroke="black" d="M-10,-19 L-10,-19" fill="none" />
+<path stroke-width="0.5" fill-opacity="0.5" stroke="red" d="M-14,-21 L-14,-21 L-14,-21 L-15,-22 L-15,-22 L-15,-22 L-15,-22 L-15,-21 L-15,-21 L-15,-21 L-15,-21 L-15,-21 L-15,-21 L-15,-21 L-15,-21 L-15,-21 L-14,-21 L-14,-21 L-14,-20 L-14,-20 L-14,-19 L-13,-18 L-13,-17 L-13,-16 L-13,-15 L-13,-13 L-13,-12 L-13,-10 L-13,-8 L-14,-7 L-14,-5 L-15,-3 L-15,-1 L-16,1 L-17,3 L-17,5 L-18,7 L-19,9 L-20,11 L-20,13 L-21,15 L-22,17 L-23,18 L-24,20 L-25,22 L-26,24 L-27,26 L-28,28 L-29,29 L-30,31 L-31,32 L-32,34 L-32,35 L-33,35 L-34,36 L-34,36 L-34,36 L-34,36" fill="none" />
+<path stroke-width="0.75" fill-opacity="0.5" stroke="black" d="M-14,-21 L-15,-21 L-15,-21 L-14,-22 L-14,-22 L-13,-22 L-13,-22 L-14,-21 L-14,-21 L-15,-21 L-15,-21 L-17,-21 L-17,-21 L-20,-21 L-20,-21 L-22,-21 L-23,-21 L-28,-21 L-29,-20 L-30,-20 L-31,-19 L-32,-18 L-32,-17 L-33,-16 L-34,-15" fill="none" />
+</svg>

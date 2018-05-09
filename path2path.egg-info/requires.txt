@@ -1,0 +1,7 @@
+flask
+flask-restful
+tensorflow>=1.6
+matplotlib
+rdp
+numpy
+scipy

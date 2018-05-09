@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="400" height="400" viewBox="-100.0 -100.0 200 200">
+<defs>
+</defs>
+<path stroke="black" stroke-width="0.5" d="M-16,-37 L-17,-37 L-34,-37" fill="none" fill-opacity="0.5" />
+<path stroke="black" stroke-width="0.5" d="M-30,20 L-17,20 L12,20" fill="none" fill-opacity="0.5" />
+<path stroke="black" stroke-width="0.5" d="M11,-23 L11,-23 L0,-23 L-30,-23" fill="none" fill-opacity="0.5" />
+<path stroke="black" stroke-width="0.5" d="M-47,-12 L25,-12" fill="none" fill-opacity="0.5" />
+</svg>
