@@ -116,3 +116,42 @@ def draw_line(x1, y1, x2, y2):
 if __name__ == '__main__':
     main(drawingArray)
 
+
+'''
+svg = parse(sys.argv[1])
+paths = svg.getElementsByTagName('path')
+print len(paths)
+
+
+regex = """[MZLHVCSQTARmzlhvcsqtar][\d\,\.-]+"""
+regex_numbers = """-?[\d\.]+"""
+pathCount = 0
+for path in paths:
+    commands = re.findall(regex, str(path.getAttribute('d')))
+    locationx = 0.0
+    locationy = 0.0
+    locations = []
+    # make a list for strokes in x and y directions
+    locationxlist = []
+    locationylist = []
+
+
+
+    for location in locations:
+        # print str.format("{0},{1}", location[0], location[1])
+        plt.scatter(location[0], -location[1])
+
+        ### add points to plot list
+        locationxlist.append(location[0])
+        locationylist.append(-location[1])
+    pathCount += 1
+
+
+    plt.axis([0, 120, -120, 0])
+    if pathCount > 0:
+        plt.plot(locationxlist, locationylist)
+    else:
+        pass
+plt.show()
+polylines = svg.getElementsByTagName('polyline')
+'''
